@@ -42,6 +42,10 @@ conda install tkinter, qrcode, io, PIL, opencv-python, pyperclip
 
 ## Screenshots
 
+<p align="center">
+  <img src="https://github.com/skmirajulislam/QR-Code-Generator/blob/master/img1.png" width="300" />
+  <img src="https://github.com/skmirajulislam/QR-Code-Generator/blob/master/img2.png" width="300" /> 
+</p>
 
 ## Contributing
 
@@ -49,7 +53,7 @@ Contributions are welcome! If you'd like to add new features, fix bugs, or impro
 
 ## License
 
-[Include license information]
+[https://github.com/skmirajulislam/QR-Code-Generator/blob/master/LICENSE]
 
 
 
